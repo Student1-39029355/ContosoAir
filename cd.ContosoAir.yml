@@ -24,6 +24,7 @@ steps:
     buildType: 'specific'
     project: '4375cf90-43a3-4e59-a201-a77949406dee'
     definition: '5'
+    specificBuildWithTriggering: true
     buildVersionToDownload: 'latest'
     targetPath: '$(Pipeline.Workspace)'
     
